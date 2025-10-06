@@ -49,7 +49,7 @@ Currently, I'm most interested in learning and building with **React** and **Nod
 
 <!-- Creative/Tech style divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FadhilMul/FadhilMul/main/assets/code-tech-divider.svg" alt="Tech Divider" width="80%">
+  <img src="https://raw.githubusercontent.com/FadhilMul/FadhilMul/main/assets/code-tech-divider.svg" alt="Tech Divider" width="100%">
 </p>
 
 ---
