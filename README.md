@@ -49,7 +49,16 @@ Currently, I'm most interested in learning and building with **React** and **Nod
 
 <!-- Creative/Tech style divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FadhilMul/FadhilMul/main/assets/code-tech-divider.svg" alt="Tech Divider" width="80%">
+  <svg width="80%" height="48" viewBox="0 0 800 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="48" fill="#0F172A"/>
+    <g>
+      <text x="50" y="30" fill="#00d8ff" font-size="22" font-family="Fira Mono, monospace" font-weight="bold">&lt;/&gt; Tech &amp; Code</text>
+      <rect x="200" y="22" width="400" height="4" rx="2" fill="#38bdf8"/>
+      <circle cx="190" cy="24" r="6" fill="#00d8ff" opacity="0.8"/>
+      <circle cx="610" cy="24" r="6" fill="#00d8ff" opacity="0.8"/>
+      <text x="740" y="32" fill="#64748b" font-size="16" font-family="Fira Mono, monospace" font-weight="bold">by Fadhil</text>
+    </g>
+  </svg>
 </p>
 
 ---
