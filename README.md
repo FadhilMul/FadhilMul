@@ -6,7 +6,7 @@ I'm a college student majoring in **Informatics**, currently in my 6th semester,
 ---
 
 ## ✨ About Me
-- 🎓 **Informatics Student** (5th Semester)
+- 🎓 **Informatics Student** (6th Semester)
 - 💻 **Frontend Enthusiast**  
   HTML, CSS, JavaScript | Currently learning React & Node.js  
   Experienced with Laravel (PHP Framework)
