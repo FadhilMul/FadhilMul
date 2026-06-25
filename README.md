@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Muhamad Fadhil Mulyana
 
 Welcome to my GitHub profile!  
-I'm a college student majoring in **Informatics**, currently in my 5th semester, and passionate about all things frontend and web development.
+I'm a college student majoring in **Informatics**, currently in my 6th semester, and passionate about all things frontend and web development.
 
 ---
 
